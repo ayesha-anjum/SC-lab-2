@@ -1,0 +1,12 @@
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\bin\Debug\lms.exe.config
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\bin\Debug\lms.exe
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\bin\Debug\lms.pdb
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.Form1.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.Form2.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.Form3.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.Form4.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.csproj.GenerateResource.Cache
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.exe
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.pdb
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\lms\lms\obj\Debug\lms.Form5.resources
